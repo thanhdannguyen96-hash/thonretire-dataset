@@ -2,6 +2,8 @@
 
 A sealed edition of the ThonRetire retirement destination dataset.
 
+**DOI:** https://doi.org/10.5281/zenodo.21817351
+
 **Landing page:** https://thonretire.com/edition/2026
 **Licence:** Creative Commons Attribution 4.0 International (CC-BY-4.0) — https://creativecommons.org/licenses/by/4.0/
 **Released:** 2026-08-01 · **Data verified:** July 2026 · **Version:** 1.3
