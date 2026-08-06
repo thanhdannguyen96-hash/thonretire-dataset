@@ -9,6 +9,7 @@ date-released: 2026-08-01
 license: CC-BY-4.0
 url: "https://thonretire.com/edition/2026"
 repository-artifact: "https://thonretire.com/data"
+doi: "10.5281/zenodo.21817351"
 abstract: "Sealed 2026 edition of the ThonRetire retirement destination dataset: 17 destinations scored on 39 criteria, every figure dated to the month it was last verified against the issuing authority. SHA256 45f2266f7801ff60ec5760b90369d5c8010e0a2687cb6c34a34e449622f68f13."
 keywords:
   - retirement migration
