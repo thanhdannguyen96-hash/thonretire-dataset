@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "ThonRetire Retirement Index 2026"
+authors:
+  - name: "Nguyễn Thành Dân"
+version: "1.3"
+date-released: 2026-08-01
+license: CC-BY-4.0
+url: "https://thonretire.com/edition/2026"
+repository-artifact: "https://thonretire.com/data"
+abstract: "Sealed 2026 edition of the ThonRetire retirement destination dataset: 17 destinations scored on 39 criteria, every figure dated to the month it was last verified against the issuing authority. SHA256 45f2266f7801ff60ec5760b90369d5c8010e0a2687cb6c34a34e449622f68f13."
+keywords:
+  - retirement migration
+  - retirement visa
+  - cost of living
+  - residency
