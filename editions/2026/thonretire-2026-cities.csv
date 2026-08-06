@@ -1,0 +1,63 @@
+﻿country,country_slug,city,city_slug,monthly_budget,monthly_rent,budget_mid_usd,rent_mid_usd,rent_share_pct,country_headline_usd,gap_vs_country_pct,url
+Panama,panama,Boquete,boquete,"$1,400–1,900",$500–900,1650,700,42,2100,-21,https://thonretire.com/retire/panama/boquete
+Panama,panama,Coronado,coronado,"$1,800–2,500",$550–900,2150,725,34,2100,2,https://thonretire.com/retire/panama/coronado
+Panama,panama,Panama City,panama-city,"$2,000–2,800","$800–1,300",2400,1050,44,2100,14,https://thonretire.com/retire/panama/panama-city
+Panama,panama,David,david,"$1,100–1,600 — ESTIMATE",$350–600 — ESTIMATE,1350,475,35,2100,-36,https://thonretire.com/retire/panama/david
+Malaysia,malaysia,Penang / George Town,penang-george-town,"$1,100–1,700",$320–650,1400,485,35,1900,-26,https://thonretire.com/retire/malaysia/penang-george-town
+Malaysia,malaysia,Kuala Lumpur,kuala-lumpur,"$1,300–2,000","$450–1,000",1650,725,44,1900,-13,https://thonretire.com/retire/malaysia/kuala-lumpur
+Malaysia,malaysia,Ipoh,ipoh,"$900–1,400",$280–450,1150,365,32,1900,-39,https://thonretire.com/retire/malaysia/ipoh
+Malaysia,malaysia,Kota Kinabalu,kota-kinabalu,"$1,000–1,500",$300–550,1250,425,34,1900,-34,https://thonretire.com/retire/malaysia/kota-kinabalu
+Thailand,thailand,Chiang Mai,chiang-mai,"$1,200–1,900/mo",$350–700,1550,525,34,1800,-14,https://thonretire.com/retire/thailand/chiang-mai
+Thailand,thailand,Hua Hin,hua-hin,"$1,500–2,400/mo",$400–700,1950,550,28,1800,8,https://thonretire.com/retire/thailand/hua-hin
+Thailand,thailand,Bangkok,bangkok,"$1,400–2,200/mo","$550–1,200",1800,875,49,1800,0,https://thonretire.com/retire/thailand/bangkok
+Thailand,thailand,Phuket,phuket,"$1,500–2,200/mo",$500–850,1850,675,36,1800,3,https://thonretire.com/retire/thailand/phuket
+Cyprus,cyprus,Paphos,paphos,"$1,700–2,300",$540–870 (€500–800),2000,705,35,2200,-9,https://thonretire.com/retire/cyprus/paphos
+Cyprus,cyprus,Limassol,limassol,"$2,700–3,500","$970–1,400 (€900–1,300)",3100,1185,38,2200,41,https://thonretire.com/retire/cyprus/limassol
+Cyprus,cyprus,Larnaca,larnaca,"$1,800–2,400",$600–920 (€550–850),2100,760,36,2200,-5,https://thonretire.com/retire/cyprus/larnaca
+Portugal,portugal,Lisbon & Cascais,lisbon-cascais,"$2,500–3,800","$1,300–2,200 (€1,200–2,000)",3150,1750,56,2600,21,https://thonretire.com/retire/portugal/lisbon-cascais
+Portugal,portugal,Algarve (Lagos / Tavira),algarve,"$2,000–2,900","$900–1,400 (€800–1,300)",2450,1150,47,2600,-6,https://thonretire.com/retire/portugal/algarve
+Portugal,portugal,Porto,porto,"$1,900–2,700","$850–1,150 (€800–1,000)",2300,1000,43,2600,-12,https://thonretire.com/retire/portugal/porto
+Portugal,portugal,Madeira (Funchal),madeira,"$1,900–2,700","$850–1,250 (€750–1,100)",2300,1050,46,2600,-12,https://thonretire.com/retire/portugal/madeira
+Malta,malta,Sliema / St Julian's,sliema-st-julians,"$2,700–3,500","$1,200–1,650 (€1,100–1,500)",3100,1425,46,2600,19,https://thonretire.com/retire/malta/sliema-st-julians
+Malta,malta,Valletta & the Three Cities,valletta-the-three-cities,"$2,300–3,000","$870–1,300 (€800–1,200) — ESTIMATE",2650,1085,41,2600,2,https://thonretire.com/retire/malta/valletta-the-three-cities
+Malta,malta,Gozo,gozo,"$1,700–2,300",$540–820 (€500–750),2000,680,34,2600,-23,https://thonretire.com/retire/malta/gozo
+Costa Rica,costa-rica,Atenas,atenas,"$1,600–2,200",$500–800,1900,650,34,2000,-5,https://thonretire.com/retire/costa-rica/atenas
+Costa Rica,costa-rica,Grecia,grecia,"$1,500–2,000",$450–700 — ESTIMATE,1750,575,33,2000,-12,https://thonretire.com/retire/costa-rica/grecia
+Costa Rica,costa-rica,Escazu / Santa Ana,escazu-santa-ana,"$2,200–3,000","$900–1,400",2600,1150,44,2000,30,https://thonretire.com/retire/costa-rica/escazu-santa-ana
+Costa Rica,costa-rica,Tamarindo (Guanacaste),tamarindo,"$2,200–3,000","$800–1,400 — ESTIMATE",2600,1100,42,2000,30,https://thonretire.com/retire/costa-rica/tamarindo
+Greece,greece,Athens Riviera (Glyfada–Voula),athens-riviera,"$2,100–2,900","$760–1,300 (€700–1,200)",2500,1030,41,2200,14,https://thonretire.com/retire/greece/athens-riviera
+Greece,greece,"Chania, Crete",chania-crete,"$1,500–2,100",$550–870 (€500–800),1800,710,39,2200,-18,https://thonretire.com/retire/greece/chania-crete
+Greece,greece,"Kalamata, Peloponnese",kalamata-peloponnese,"$1,300–1,800",$380–550 (€350–500),1550,465,30,2200,-30,https://thonretire.com/retire/greece/kalamata-peloponnese
+Mexico,mexico,Lake Chapala / Ajijic,lake-chapala-ajijic,"$1,800–2,400","$600–1,200",2100,900,43,1700,24,https://thonretire.com/retire/mexico/lake-chapala-ajijic
+Mexico,mexico,Merida,merida,"$1,400–2,000",$400–750,1700,575,34,1700,0,https://thonretire.com/retire/mexico/merida
+Mexico,mexico,San Miguel de Allende,san-miguel-de-allende,"$1,700–2,500","$600–1,200",2100,900,43,1700,24,https://thonretire.com/retire/mexico/san-miguel-de-allende
+Mexico,mexico,Puerto Vallarta,puerto-vallarta,"$1,800–2,700","$800–1,400",2250,1100,49,1700,32,https://thonretire.com/retire/mexico/puerto-vallarta
+Mauritius,mauritius,Grand Baie (north),grand-baie,"$1,400–2,200",$450–900,1800,675,38,2000,-10,https://thonretire.com/retire/mauritius/grand-baie
+Mauritius,mauritius,Tamarin / Black River (west),tamarin-black-river,"$1,600–2,500","$600–1,200",2050,900,44,2000,3,https://thonretire.com/retire/mauritius/tamarin-black-river
+Mauritius,mauritius,Flic-en-Flac (west),flic-en-flac,"$1,200–1,800",$350–700,1500,525,35,2000,-25,https://thonretire.com/retire/mauritius/flic-en-flac
+Philippines,philippines,Dumaguete,dumaguete,"$900–1,400",$250–450,1150,350,30,1500,-23,https://thonretire.com/retire/philippines/dumaguete
+Philippines,philippines,Cebu City,cebu-city,"$1,300–2,000",$300–600,1650,450,27,1500,10,https://thonretire.com/retire/philippines/cebu-city
+Philippines,philippines,Tagaytay,tagaytay,"$1,200–1,800",$350–600,1500,475,32,1500,0,https://thonretire.com/retire/philippines/tagaytay
+Philippines,philippines,Subic Bay / Angeles,subic-bay-angeles,"$1,000–1,500",$300–500,1250,400,32,1500,-17,https://thonretire.com/retire/philippines/subic-bay-angeles
+Italy,italy,"Lecce, Puglia",lecce-puglia,"$1,300–1,800",$430–650 (€400–600),1550,540,35,2400,-35,https://thonretire.com/retire/italy/lecce-puglia
+Italy,italy,"Abruzzo (Sulmona, Pescara hinterland)",abruzzo,"$1,200–1,700",$430–670 (€400–620),1450,550,38,2400,-40,https://thonretire.com/retire/italy/abruzzo
+Italy,italy,"Syracuse / Ortigia, Sicily",syracuse-ortigia-sicily,"$1,400–2,000",$540–970 (€500–900),1700,755,44,2400,-29,https://thonretire.com/retire/italy/syracuse-ortigia-sicily
+Italy,italy,Le Marche (Ascoli Piceno area),le-marche,"$1,300–1,800",$430–650 (€400–600) — ESTIMATE,1550,540,35,2400,-35,https://thonretire.com/retire/italy/le-marche
+Spain,spain,Alicante / Costa Blanca,alicante-costa-blanca,"$2,000–2,800","$900–1,150 (€800–1,000)",2400,1025,43,2500,-4,https://thonretire.com/retire/spain/alicante-costa-blanca
+Spain,spain,Málaga,malaga,"$2,200–3,000","$950–1,350 (€850–1,200)",2600,1150,44,2500,4,https://thonretire.com/retire/spain/malaga
+Spain,spain,Valencia,valencia,"$2,100–2,900","$950–1,350 (€850–1,200)",2500,1150,46,2500,0,https://thonretire.com/retire/spain/valencia
+Spain,spain,Torrevieja / Orihuela Costa,torrevieja-orihuela-costa,"$1,800–2,400",$700–950 (€650–850) — ESTIMATE,2100,825,39,2500,-16,https://thonretire.com/retire/spain/torrevieja-orihuela-costa
+Uruguay,uruguay,Montevideo (Pocitos),montevideo,"$2,200–3,000","$850–1,300",2600,1075,41,2300,13,https://thonretire.com/retire/uruguay/montevideo
+Uruguay,uruguay,Punta del Este,punta-del-este,"$2,300–3,200",$520–850 long-term,2750,685,25,2300,20,https://thonretire.com/retire/uruguay/punta-del-este
+Uruguay,uruguay,Atlántida / Costa de Oro,atlantida-costa-de-oro,"$1,700–2,400",$400–700 — ESTIMATE,2050,550,27,2300,-11,https://thonretire.com/retire/uruguay/atlantida-costa-de-oro
+UAE (Dubai),dubai,Dubai Marina / JLT,dubai-marina-jlt,"$3,500–5,000","$1,700–3,000",4250,2350,55,3500,21,https://thonretire.com/retire/dubai/dubai-marina-jlt
+UAE (Dubai),dubai,Downtown Dubai,downtown-dubai,"$4,000–5,500","$2,300–3,600 — ESTIMATE",4750,2950,62,3500,36,https://thonretire.com/retire/dubai/downtown-dubai
+UAE (Dubai),dubai,Abu Dhabi (Reem Island / Khalidiya),abu-dhabi,"$2,800–4,200","$1,350–2,600",3500,1975,56,3500,0,https://thonretire.com/retire/dubai/abu-dhabi
+UAE (Dubai),dubai,Sharjah (budget option),sharjah,"$1,800–2,500","$750–1,150",2150,950,44,3500,-39,https://thonretire.com/retire/dubai/sharjah
+Indonesia (Bali),bali,Sanur,sanur,"$1,500–2,200",$500–900,1850,700,38,1700,9,https://thonretire.com/retire/bali/sanur
+Indonesia (Bali),bali,Ubud,ubud,"$1,300–2,000",$400–800,1650,600,36,1700,-3,https://thonretire.com/retire/bali/ubud
+Indonesia (Bali),bali,Canggu,canggu,"$1,800–2,800","$700–1,300",2300,1000,43,1700,35,https://thonretire.com/retire/bali/canggu
+Vietnam,vietnam,Da Nang,da-nang,"$1,000–1,500",$350–700,1250,525,42,1400,-11,https://thonretire.com/retire/vietnam/da-nang
+Vietnam,vietnam,Nha Trang,nha-trang,"$900–1,300",$250–450,1100,350,32,1400,-21,https://thonretire.com/retire/vietnam/nha-trang
+Vietnam,vietnam,Ho Chi Minh City (Thao Dien),ho-chi-minh-city,"$1,300–2,000","$600–1,000",1650,800,48,1400,18,https://thonretire.com/retire/vietnam/ho-chi-minh-city
+Vietnam,vietnam,Hoi An,hoi-an,"$900–1,400",$300–550,1150,425,37,1400,-18,https://thonretire.com/retire/vietnam/hoi-an
