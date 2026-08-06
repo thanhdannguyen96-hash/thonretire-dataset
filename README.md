@@ -10,7 +10,7 @@ in a competing ranking. The only condition is that you credit ThonRetire and lin
 
 | Edition | Released | Destinations | Version | DOI |
 | --- | --- | --- | --- | --- |
-| [2026](editions/2026/) | 2026-08-01 | 17 | v1.3 | — |
+| [2026](editions/2026/) | 2026-08-01 | 17 | v1.3 | [10.5281/zenodo.21817351](https://doi.org/10.5281/zenodo.21817351) |
 
 ## Why "sealed"
 
